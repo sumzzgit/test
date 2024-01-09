@@ -1,0 +1,2 @@
+this is test6.txt file 
+version 1
